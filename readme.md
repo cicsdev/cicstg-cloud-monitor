@@ -5,7 +5,7 @@
 
 ### Introduction
 
-This Request Monitoring exit for the CICS Transaction Gateway is designed to store the monitoring information in a cloudant database as described in the blog post [Analysis of mobile workload using IBM Bluemix](https://www.ibm.com/developerworks/community/blogs/cicsdev/entry/february_20_2015_9_01_am?lang=en).
+This Request Monitoring exit for the CICS Transaction Gateway is designed to store the monitoring information in a cloudant database as described in the blog post [Analysis of mobile workload using IBM Bluemix](https://developer.ibm.com/cics/2015/03/09/analysis-of-mobile-workload-using-ibm-bluemix).
 
 ### Usage
 
